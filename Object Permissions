@@ -1,0 +1,7 @@
+Below are type of object permissions/modes available in Git -
+040000  Directory
+100644  Regular Non-Executable File
+100664  Regular Non-Executable Group-Writable File
+100755  Regular Executable File
+120000  Symbolic Link
+160000  Gitlink
